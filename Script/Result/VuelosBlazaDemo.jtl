@@ -1,0 +1,184 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1621991783647,5481,https://blazedemo.com/reserve.php,200,OK,Grupo de Hilos 1-1,text,true,,288701,2815,1,1,https://blazedemo.com/reserve.php,3923,0,3580
+1621991783647,3926,https://blazedemo.com/reserve.php-0,200,OK,Grupo de Hilos 1-1,text,true,,5795,495,1,1,https://blazedemo.com/reserve.php,3923,0,3580
+1621991787660,298,https://blazedemo.com/reserve.php-1,200,OK,Grupo de Hilos 1-1,text,true,,83603,478,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,159,0,73
+1621991787660,658,https://blazedemo.com/reserve.php-2,200,OK,Grupo de Hilos 1-1,text,true,,28981,459,1,1,https://blazedemo.com/assets/bootstrap.min.js,564,0,398
+1621991787660,1468,https://blazedemo.com/reserve.php-3,200,OK,Grupo de Hilos 1-1,text,true,,39488,461,1,1,https://blazedemo.com/assets/bootstrap-table.js,1314,0,1127
+1621991787660,389,https://blazedemo.com/reserve.php-4,200,OK,Grupo de Hilos 1-1,text,true,,126767,460,1,1,https://blazedemo.com/assets/bootstrap.min.css,165,0,0
+1621991787660,1174,https://blazedemo.com/reserve.php-5,200,OK,Grupo de Hilos 1-1,text,true,,4067,462,1,1,https://blazedemo.com/assets/bootstrap-table.css,1174,0,684
+1621991850013,1596,https://blazedemo.com/reserve.php,200,OK,Grupo de Hilos 1-2,text,true,,288709,2816,2,2,https://blazedemo.com/reserve.php,746,0,361
+1621991850013,749,https://blazedemo.com/reserve.php-0,200,OK,Grupo de Hilos 1-2,text,true,,5803,496,2,2,https://blazedemo.com/reserve.php,746,0,361
+1621991850777,292,https://blazedemo.com/reserve.php-1,200,OK,Grupo de Hilos 1-2,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,163,0,68
+1621991850780,678,https://blazedemo.com/reserve.php-2,200,OK,Grupo de Hilos 1-2,text,true,,28981,459,2,2,https://blazedemo.com/assets/bootstrap.min.js,586,0,407
+1621991850782,627,https://blazedemo.com/reserve.php-3,200,OK,Grupo de Hilos 1-2,text,true,,39488,461,2,2,https://blazedemo.com/assets/bootstrap-table.js,529,0,358
+1621991850784,825,https://blazedemo.com/reserve.php-4,200,OK,Grupo de Hilos 1-2,text,true,,126767,460,2,2,https://blazedemo.com/assets/bootstrap.min.css,562,0,386
+1621991850780,184,https://blazedemo.com/reserve.php-5,200,OK,Grupo de Hilos 1-2,text,true,,4067,462,2,2,https://blazedemo.com/assets/bootstrap-table.css,177,0,0
+1621991862545,1896,https://blazedemo.com/purchase.php,200,OK,Grupo de Hilos 1-1,text,true,,6102,3260,2,2,https://blazedemo.com/purchase.php,740,0,403
+1621991862545,747,https://blazedemo.com/purchase.php-0,200,OK,Grupo de Hilos 1-1,text,true,,5185,542,2,2,https://blazedemo.com/purchase.php,740,0,403
+1621991863300,128,https://blazedemo.com/purchase.php-1,304,Not Modified,Grupo de Hilos 1-1,,true,,213,528,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,72
+1621991863300,190,https://blazedemo.com/purchase.php-2,304,Not Modified,Grupo de Hilos 1-1,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621991863300,1141,https://blazedemo.com/purchase.php-3,304,Not Modified,Grupo de Hilos 1-1,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,667
+1621991863301,557,https://blazedemo.com/purchase.php-4,304,Not Modified,Grupo de Hilos 1-1,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,374
+1621991863301,941,https://blazedemo.com/purchase.php-5,304,Not Modified,Grupo de Hilos 1-1,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,733
+1621991886186,1240,https://blazedemo.com/confirmation.php,200,OK,Grupo de Hilos 1-1,text,true,,88557,3338,2,2,https://blazedemo.com/confirmation.php,708,0,0
+1621991886186,708,https://blazedemo.com/confirmation.php-0,200,OK,Grupo de Hilos 1-1,text,true,,4250,670,2,2,https://blazedemo.com/confirmation.php,708,0,0
+1621991886940,225,https://blazedemo.com/confirmation.php-1,200,OK,Grupo de Hilos 1-1,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,91,0,0
+1621991886941,485,https://blazedemo.com/confirmation.php-2,304,Not Modified,Grupo de Hilos 1-1,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621991886941,179,https://blazedemo.com/confirmation.php-3,304,Not Modified,Grupo de Hilos 1-1,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1621991886941,169,https://blazedemo.com/confirmation.php-4,304,Not Modified,Grupo de Hilos 1-1,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1621991886940,183,https://blazedemo.com/confirmation.php-5,304,Not Modified,Grupo de Hilos 1-1,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1621991783451,8617,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Grupo de Hilos 1-1,,true,,383360,9413,2,2,null,5371,95360,3983
+1621991916679,2474,https://blazedemo.com/reserve.php,200,OK,Grupo de Hilos 1-3,text,true,,288709,2816,2,2,https://blazedemo.com/reserve.php,837,0,422
+1621991916679,846,https://blazedemo.com/reserve.php-0,200,OK,Grupo de Hilos 1-3,text,true,,5803,496,2,2,https://blazedemo.com/reserve.php,837,0,422
+1621991917530,303,https://blazedemo.com/reserve.php-1,200,OK,Grupo de Hilos 1-3,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,164,0,71
+1621991917533,294,https://blazedemo.com/reserve.php-2,200,OK,Grupo de Hilos 1-3,text,true,,28981,459,2,2,https://blazedemo.com/assets/bootstrap.min.js,200,0,0
+1621991917534,571,https://blazedemo.com/reserve.php-3,200,OK,Grupo de Hilos 1-3,text,true,,39488,461,2,2,https://blazedemo.com/assets/bootstrap-table.js,445,0,234
+1621991917534,1059,https://blazedemo.com/reserve.php-4,200,OK,Grupo de Hilos 1-3,text,true,,126767,460,2,2,https://blazedemo.com/assets/bootstrap.min.css,836,0,372
+1621991917534,1619,https://blazedemo.com/reserve.php-5,200,OK,Grupo de Hilos 1-3,text,true,,4067,462,2,2,https://blazedemo.com/assets/bootstrap-table.css,1604,0,1417
+1621991921688,1938,https://blazedemo.com/purchase.php,200,OK,Grupo de Hilos 1-2,text,true,,6102,3261,2,2,https://blazedemo.com/purchase.php,749,0,409
+1621991921688,751,https://blazedemo.com/purchase.php-0,200,OK,Grupo de Hilos 1-2,text,true,,5185,543,2,2,https://blazedemo.com/purchase.php,749,0,409
+1621991922444,170,https://blazedemo.com/purchase.php-1,304,Not Modified,Grupo de Hilos 1-2,,true,,213,528,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,68
+1621991922445,486,https://blazedemo.com/purchase.php-2,304,Not Modified,Grupo de Hilos 1-2,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621991922446,537,https://blazedemo.com/purchase.php-3,304,Not Modified,Grupo de Hilos 1-2,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,358
+1621991922446,1180,https://blazedemo.com/purchase.php-4,304,Not Modified,Grupo de Hilos 1-2,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,699
+1621991922445,1170,https://blazedemo.com/purchase.php-5,304,Not Modified,Grupo de Hilos 1-2,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,693
+1621991941403,1164,https://blazedemo.com/confirmation.php,200,OK,Grupo de Hilos 1-2,text,true,,88557,3346,2,2,https://blazedemo.com/confirmation.php,644,0,0
+1621991941403,648,https://blazedemo.com/confirmation.php-0,200,OK,Grupo de Hilos 1-2,text,true,,4250,678,2,2,https://blazedemo.com/confirmation.php,644,0,0
+1621991942061,249,https://blazedemo.com/confirmation.php-1,200,OK,Grupo de Hilos 1-2,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,114,0,0
+1621991942069,195,https://blazedemo.com/confirmation.php-2,304,Not Modified,Grupo de Hilos 1-2,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621991942068,499,https://blazedemo.com/confirmation.php-3,304,Not Modified,Grupo de Hilos 1-2,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1621991942072,186,https://blazedemo.com/confirmation.php-4,304,Not Modified,Grupo de Hilos 1-2,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1621991942067,472,https://blazedemo.com/confirmation.php-5,304,Not Modified,Grupo de Hilos 1-2,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1621991850010,4698,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Grupo de Hilos 1-2,,true,,383368,9423,2,2,null,2139,87865,770
+1621991983346,1740,https://blazedemo.com/reserve.php,200,OK,Grupo de Hilos 1-4,text,true,,288701,2815,2,2,https://blazedemo.com/reserve.php,672,0,378
+1621991983346,680,https://blazedemo.com/reserve.php-0,200,OK,Grupo de Hilos 1-4,text,true,,5795,495,2,2,https://blazedemo.com/reserve.php,672,0,378
+1621991984029,390,https://blazedemo.com/reserve.php-1,200,OK,Grupo de Hilos 1-4,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,265,0,61
+1621991984029,522,https://blazedemo.com/reserve.php-2,200,OK,Grupo de Hilos 1-4,text,true,,28981,459,2,2,https://blazedemo.com/assets/bootstrap.min.js,424,0,244
+1621991984030,707,https://blazedemo.com/reserve.php-3,200,OK,Grupo de Hilos 1-4,text,true,,39488,461,2,2,https://blazedemo.com/assets/bootstrap-table.js,561,0,372
+1621991984030,1056,https://blazedemo.com/reserve.php-4,200,OK,Grupo de Hilos 1-4,text,true,,126767,460,2,2,https://blazedemo.com/assets/bootstrap.min.css,829,0,353
+1621991984030,217,https://blazedemo.com/reserve.php-5,200,OK,Grupo de Hilos 1-4,text,true,,4067,462,2,2,https://blazedemo.com/assets/bootstrap-table.css,217,0,0
+1621992030048,1283,https://blazedemo.com/purchase.php,200,OK,Grupo de Hilos 1-3,text,true,,6102,3261,2,2,https://blazedemo.com/purchase.php,669,0,325
+1621992030048,677,https://blazedemo.com/purchase.php-0,200,OK,Grupo de Hilos 1-3,text,true,,5185,543,2,2,https://blazedemo.com/purchase.php,669,0,325
+1621992030733,122,https://blazedemo.com/purchase.php-1,304,Not Modified,Grupo de Hilos 1-3,,true,,213,528,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,65
+1621992030733,154,https://blazedemo.com/purchase.php-2,304,Not Modified,Grupo de Hilos 1-3,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621992030740,591,https://blazedemo.com/purchase.php-3,304,Not Modified,Grupo de Hilos 1-3,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,400
+1621992030735,573,https://blazedemo.com/purchase.php-4,304,Not Modified,Grupo de Hilos 1-3,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,400
+1621992030733,477,https://blazedemo.com/purchase.php-5,304,Not Modified,Grupo de Hilos 1-3,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,318
+1621992044936,1366,https://blazedemo.com/purchase.php,200,OK,Grupo de Hilos 1-4,text,true,,6102,3260,2,2,https://blazedemo.com/purchase.php,716,0,387
+1621992044936,716,https://blazedemo.com/purchase.php-0,200,OK,Grupo de Hilos 1-4,text,true,,5185,542,2,2,https://blazedemo.com/purchase.php,716,0,387
+1621992045655,145,https://blazedemo.com/purchase.php-1,304,Not Modified,Grupo de Hilos 1-4,,true,,213,528,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,91
+1621992045658,644,https://blazedemo.com/purchase.php-2,304,Not Modified,Grupo de Hilos 1-4,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,405
+1621992045656,556,https://blazedemo.com/purchase.php-3,304,Not Modified,Grupo de Hilos 1-4,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,391
+1621992045656,192,https://blazedemo.com/purchase.php-4,304,Not Modified,Grupo de Hilos 1-4,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1621992045659,527,https://blazedemo.com/purchase.php-5,304,Not Modified,Grupo de Hilos 1-4,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,354
+1621992050012,3461,https://blazedemo.com/reserve.php,200,OK,Grupo de Hilos 1-5,text,true,,288709,2816,3,3,https://blazedemo.com/reserve.php,683,0,358
+1621992050012,683,https://blazedemo.com/reserve.php-0,200,OK,Grupo de Hilos 1-5,text,true,,5803,496,3,3,https://blazedemo.com/reserve.php,683,0,358
+1621992050698,299,https://blazedemo.com/reserve.php-1,200,OK,Grupo de Hilos 1-5,text,true,,83603,478,3,3,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,148,0,64
+1621992050698,288,https://blazedemo.com/reserve.php-2,200,OK,Grupo de Hilos 1-5,text,true,,28981,459,3,3,https://blazedemo.com/assets/bootstrap.min.js,178,0,0
+1621992050699,718,https://blazedemo.com/reserve.php-3,200,OK,Grupo de Hilos 1-5,text,true,,39488,461,3,3,https://blazedemo.com/assets/bootstrap-table.js,588,0,395
+1621992050699,2774,https://blazedemo.com/reserve.php-4,200,OK,Grupo de Hilos 1-5,text,true,,126767,460,3,3,https://blazedemo.com/assets/bootstrap.min.css,2515,0,1703
+1621992050698,1195,https://blazedemo.com/reserve.php-5,200,OK,Grupo de Hilos 1-5,text,true,,4067,462,3,3,https://blazedemo.com/assets/bootstrap-table.css,1195,0,694
+1621992070496,539,https://blazedemo.com/confirmation.php,200,OK,Grupo de Hilos 1-3,text,true,,88557,3336,3,3,https://blazedemo.com/confirmation.php,299,0,0
+1621992070496,300,https://blazedemo.com/confirmation.php-0,200,OK,Grupo de Hilos 1-3,text,true,,4250,668,3,3,https://blazedemo.com/confirmation.php,299,0,0
+1621992070803,232,https://blazedemo.com/confirmation.php-1,200,OK,Grupo de Hilos 1-3,text,true,,83603,478,3,3,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,102,0,0
+1621992070804,188,https://blazedemo.com/confirmation.php-2,304,Not Modified,Grupo de Hilos 1-3,,true,,176,546,3,3,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621992070805,206,https://blazedemo.com/confirmation.php-3,304,Not Modified,Grupo de Hilos 1-3,,true,,176,548,3,3,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1621992070806,165,https://blazedemo.com/confirmation.php-4,304,Not Modified,Grupo de Hilos 1-3,,true,,177,548,3,3,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1621992070805,180,https://blazedemo.com/confirmation.php-5,304,Not Modified,Grupo de Hilos 1-3,,true,,175,548,3,3,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1621991916677,4296,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Grupo de Hilos 1-3,,true,,383368,9413,3,3,null,1805,150064,747
+1621992073271,564,https://blazedemo.com/confirmation.php,200,OK,Grupo de Hilos 1-4,text,true,,88557,3338,2,2,https://blazedemo.com/confirmation.php,339,0,0
+1621992073271,339,https://blazedemo.com/confirmation.php-0,200,OK,Grupo de Hilos 1-4,text,true,,4250,670,2,2,https://blazedemo.com/confirmation.php,339,0,0
+1621992073616,219,https://blazedemo.com/confirmation.php-1,200,OK,Grupo de Hilos 1-4,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,95,0,0
+1621992073618,172,https://blazedemo.com/confirmation.php-2,304,Not Modified,Grupo de Hilos 1-4,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621992073618,193,https://blazedemo.com/confirmation.php-3,304,Not Modified,Grupo de Hilos 1-4,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1621992073618,181,https://blazedemo.com/confirmation.php-4,304,Not Modified,Grupo de Hilos 1-4,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1621992073619,180,https://blazedemo.com/confirmation.php-5,304,Not Modified,Grupo de Hilos 1-4,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1621991983344,3670,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Grupo de Hilos 1-4,,true,,383360,9413,2,2,null,1727,86822,765
+1621992098274,5361,https://blazedemo.com/purchase.php,200,OK,Grupo de Hilos 1-5,text,true,,6102,3261,1,1,https://blazedemo.com/purchase.php,1583,0,0
+1621992098274,1595,https://blazedemo.com/purchase.php-0,200,OK,Grupo de Hilos 1-5,text,true,,5185,543,1,1,https://blazedemo.com/purchase.php,1583,0,0
+1621992099872,78,https://blazedemo.com/purchase.php-1,304,Not Modified,Grupo de Hilos 1-5,,true,,213,528,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1621992099872,3763,https://blazedemo.com/purchase.php-2,304,Not Modified,Grupo de Hilos 1-5,,true,,176,546,1,1,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621992099872,519,https://blazedemo.com/purchase.php-3,304,Not Modified,Grupo de Hilos 1-5,,true,,176,548,1,1,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1621992099872,284,https://blazedemo.com/purchase.php-4,304,Not Modified,Grupo de Hilos 1-5,,true,,177,548,1,1,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1621992099872,169,https://blazedemo.com/purchase.php-5,304,Not Modified,Grupo de Hilos 1-5,,true,,175,548,1,1,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1621992116677,1967,https://blazedemo.com/reserve.php,200,OK,Grupo de Hilos 1-6,text,true,,288709,2816,2,2,https://blazedemo.com/reserve.php,853,0,501
+1621992116677,859,https://blazedemo.com/reserve.php-0,200,OK,Grupo de Hilos 1-6,text,true,,5803,496,2,2,https://blazedemo.com/reserve.php,853,0,501
+1621992117540,321,https://blazedemo.com/reserve.php-1,200,OK,Grupo de Hilos 1-6,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,150,0,56
+1621992117542,420,https://blazedemo.com/reserve.php-2,200,OK,Grupo de Hilos 1-6,text,true,,28981,459,2,2,https://blazedemo.com/assets/bootstrap.min.js,352,0,0
+1621992117544,629,https://blazedemo.com/reserve.php-3,200,OK,Grupo de Hilos 1-6,text,true,,39488,461,2,2,https://blazedemo.com/assets/bootstrap-table.js,525,0,358
+1621992117551,1093,https://blazedemo.com/reserve.php-4,200,OK,Grupo de Hilos 1-6,text,true,,126767,460,2,2,https://blazedemo.com/assets/bootstrap.min.css,854,0,370
+1621992117547,827,https://blazedemo.com/reserve.php-5,200,OK,Grupo de Hilos 1-6,text,true,,4067,462,2,2,https://blazedemo.com/assets/bootstrap-table.css,825,0,245
+1621992122869,1314,https://blazedemo.com/confirmation.php,200,OK,Grupo de Hilos 1-5,text,true,,88557,3346,2,2,https://blazedemo.com/confirmation.php,716,0,399
+1621992122869,717,https://blazedemo.com/confirmation.php-0,200,OK,Grupo de Hilos 1-5,text,true,,4250,678,2,2,https://blazedemo.com/confirmation.php,716,0,399
+1621992123588,279,https://blazedemo.com/confirmation.php-1,200,OK,Grupo de Hilos 1-5,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,149,0,57
+1621992123588,473,https://blazedemo.com/confirmation.php-2,304,Not Modified,Grupo de Hilos 1-5,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,314
+1621992123593,539,https://blazedemo.com/confirmation.php-3,304,Not Modified,Grupo de Hilos 1-5,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,374
+1621992123593,590,https://blazedemo.com/confirmation.php-4,304,Not Modified,Grupo de Hilos 1-5,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,410
+1621992123589,171,https://blazedemo.com/confirmation.php-5,304,Not Modified,Grupo de Hilos 1-5,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1621992050010,10136,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Grupo de Hilos 1-5,,true,,383368,9423,2,2,null,2982,64044,757
+1621992183345,1987,https://blazedemo.com/reserve.php,200,OK,Grupo de Hilos 1-7,text,true,,288701,2815,2,2,https://blazedemo.com/reserve.php,1160,0,843
+1621992183345,1161,https://blazedemo.com/reserve.php-0,200,OK,Grupo de Hilos 1-7,text,true,,5795,495,2,2,https://blazedemo.com/reserve.php,1160,0,843
+1621992184507,345,https://blazedemo.com/reserve.php-1,200,OK,Grupo de Hilos 1-7,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,163,0,81
+1621992184510,725,https://blazedemo.com/reserve.php-2,200,OK,Grupo de Hilos 1-7,text,true,,28981,459,2,2,https://blazedemo.com/assets/bootstrap.min.js,617,0,424
+1621992184509,333,https://blazedemo.com/reserve.php-3,200,OK,Grupo de Hilos 1-7,text,true,,39488,461,2,2,https://blazedemo.com/assets/bootstrap-table.js,182,0,0
+1621992184510,822,https://blazedemo.com/reserve.php-4,200,OK,Grupo de Hilos 1-7,text,true,,126767,460,2,2,https://blazedemo.com/assets/bootstrap.min.css,541,0,371
+1621992184509,528,https://blazedemo.com/reserve.php-5,200,OK,Grupo de Hilos 1-7,text,true,,4067,462,2,2,https://blazedemo.com/assets/bootstrap-table.css,519,0,341
+1621992199431,2397,https://blazedemo.com/purchase.php,200,OK,Grupo de Hilos 1-6,text,true,,6102,3261,2,2,https://blazedemo.com/purchase.php,1324,0,714
+1621992199431,1331,https://blazedemo.com/purchase.php-0,200,OK,Grupo de Hilos 1-6,text,true,,5185,543,2,2,https://blazedemo.com/purchase.php,1324,0,714
+1621992200765,125,https://blazedemo.com/purchase.php-1,304,Not Modified,Grupo de Hilos 1-6,,true,,213,528,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,64
+1621992200766,1062,https://blazedemo.com/purchase.php-2,304,Not Modified,Grupo de Hilos 1-6,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,820
+1621992200765,576,https://blazedemo.com/purchase.php-3,304,Not Modified,Grupo de Hilos 1-6,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,378
+1621992200766,540,https://blazedemo.com/purchase.php-4,304,Not Modified,Grupo de Hilos 1-6,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,372
+1621992200765,497,https://blazedemo.com/purchase.php-5,304,Not Modified,Grupo de Hilos 1-6,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1621992221195,855,https://blazedemo.com/confirmation.php,200,OK,Grupo de Hilos 1-6,text,true,,88557,3336,2,2,https://blazedemo.com/confirmation.php,363,0,0
+1621992221195,363,https://blazedemo.com/confirmation.php-0,200,OK,Grupo de Hilos 1-6,text,true,,4250,668,2,2,https://blazedemo.com/confirmation.php,363,0,0
+1621992221561,266,https://blazedemo.com/confirmation.php-1,200,OK,Grupo de Hilos 1-6,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,106,0,0
+1621992221562,488,https://blazedemo.com/confirmation.php-2,304,Not Modified,Grupo de Hilos 1-6,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621992221561,198,https://blazedemo.com/confirmation.php-3,304,Not Modified,Grupo de Hilos 1-6,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1621992221561,183,https://blazedemo.com/confirmation.php-4,304,Not Modified,Grupo de Hilos 1-6,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1621992221561,183,https://blazedemo.com/confirmation.php-5,304,Not Modified,Grupo de Hilos 1-6,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1621992116675,5219,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Grupo de Hilos 1-6,,true,,383368,9413,2,2,null,2540,100159,1215
+1621992250011,1970,https://blazedemo.com/reserve.php,200,OK,Grupo de Hilos 1-8,text,true,,288709,2816,2,2,https://blazedemo.com/reserve.php,761,0,437
+1621992250011,762,https://blazedemo.com/reserve.php-0,200,OK,Grupo de Hilos 1-8,text,true,,5803,496,2,2,https://blazedemo.com/reserve.php,761,0,437
+1621992250776,338,https://blazedemo.com/reserve.php-1,200,OK,Grupo de Hilos 1-8,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,195,0,64
+1621992250775,1206,https://blazedemo.com/reserve.php-2,200,OK,Grupo de Hilos 1-8,text,true,,28981,459,2,2,https://blazedemo.com/assets/bootstrap.min.js,1124,0,640
+1621992250775,1056,https://blazedemo.com/reserve.php-3,200,OK,Grupo de Hilos 1-8,text,true,,39488,461,2,2,https://blazedemo.com/assets/bootstrap-table.js,922,0,702
+1621992250775,468,https://blazedemo.com/reserve.php-4,200,OK,Grupo de Hilos 1-8,text,true,,126767,460,2,2,https://blazedemo.com/assets/bootstrap.min.css,179,0,0
+1621992250776,790,https://blazedemo.com/reserve.php-5,200,OK,Grupo de Hilos 1-8,text,true,,4067,462,2,2,https://blazedemo.com/assets/bootstrap-table.css,790,0,238
+1621992268557,1539,https://blazedemo.com/purchase.php,200,OK,Grupo de Hilos 1-7,text,true,,6102,3260,2,2,https://blazedemo.com/purchase.php,727,0,420
+1621992268557,731,https://blazedemo.com/purchase.php-0,200,OK,Grupo de Hilos 1-7,text,true,,5185,542,2,2,https://blazedemo.com/purchase.php,727,0,420
+1621992269291,122,https://blazedemo.com/purchase.php-1,304,Not Modified,Grupo de Hilos 1-7,,true,,213,528,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,66
+1621992269290,190,https://blazedemo.com/purchase.php-2,304,Not Modified,Grupo de Hilos 1-7,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621992269292,657,https://blazedemo.com/purchase.php-3,304,Not Modified,Grupo de Hilos 1-7,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,410
+1621992269292,804,https://blazedemo.com/purchase.php-4,304,Not Modified,Grupo de Hilos 1-7,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,638
+1621992269292,519,https://blazedemo.com/purchase.php-5,304,Not Modified,Grupo de Hilos 1-7,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,348
+1621992302702,1110,https://blazedemo.com/purchase.php,200,OK,Grupo de Hilos 1-8,text,true,,6102,3261,2,2,https://blazedemo.com/purchase.php,610,0,0
+1621992302702,626,https://blazedemo.com/purchase.php-0,200,OK,Grupo de Hilos 1-8,text,true,,5185,543,2,2,https://blazedemo.com/purchase.php,610,0,0
+1621992303332,71,https://blazedemo.com/purchase.php-1,304,Not Modified,Grupo de Hilos 1-8,,true,,213,528,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1621992303336,203,https://blazedemo.com/purchase.php-2,304,Not Modified,Grupo de Hilos 1-8,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621992303338,171,https://blazedemo.com/purchase.php-3,304,Not Modified,Grupo de Hilos 1-8,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1621992303337,475,https://blazedemo.com/purchase.php-4,304,Not Modified,Grupo de Hilos 1-8,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1621992303334,464,https://blazedemo.com/purchase.php-5,304,Not Modified,Grupo de Hilos 1-8,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1621992306426,713,https://blazedemo.com/confirmation.php,200,OK,Grupo de Hilos 1-7,text,true,,88557,3338,2,2,https://blazedemo.com/confirmation.php,483,0,0
+1621992306426,495,https://blazedemo.com/confirmation.php-0,200,OK,Grupo de Hilos 1-7,text,true,,4250,670,2,2,https://blazedemo.com/confirmation.php,483,0,0
+1621992306924,215,https://blazedemo.com/confirmation.php-1,200,OK,Grupo de Hilos 1-7,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,91,0,0
+1621992306924,177,https://blazedemo.com/confirmation.php-2,304,Not Modified,Grupo de Hilos 1-7,,true,,176,546,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621992306925,182,https://blazedemo.com/confirmation.php-3,304,Not Modified,Grupo de Hilos 1-7,,true,,176,548,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1621992306924,197,https://blazedemo.com/confirmation.php-4,304,Not Modified,Grupo de Hilos 1-7,,true,,177,548,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1621992306924,177,https://blazedemo.com/confirmation.php-5,304,Not Modified,Grupo de Hilos 1-7,,true,,175,548,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1621992183343,4239,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Grupo de Hilos 1-7,,true,,383360,9413,2,2,null,2370,119558,1263
+1621992316673,1946,https://blazedemo.com/reserve.php,200,OK,Grupo de Hilos 1-9,text,true,,288709,2816,2,2,https://blazedemo.com/reserve.php,783,0,515
+1621992316673,787,https://blazedemo.com/reserve.php-0,200,OK,Grupo de Hilos 1-9,text,true,,5803,496,2,2,https://blazedemo.com/reserve.php,783,0,515
+1621992317462,286,https://blazedemo.com/reserve.php-1,200,OK,Grupo de Hilos 1-9,text,true,,83603,478,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,151,0,55
+1621992317462,286,https://blazedemo.com/reserve.php-2,200,OK,Grupo de Hilos 1-9,text,true,,28981,459,2,2,https://blazedemo.com/assets/bootstrap.min.js,175,0,0
+1621992317462,654,https://blazedemo.com/reserve.php-3,200,OK,Grupo de Hilos 1-9,text,true,,39488,461,2,2,https://blazedemo.com/assets/bootstrap-table.js,543,0,370
+1621992317462,997,https://blazedemo.com/reserve.php-4,200,OK,Grupo de Hilos 1-9,text,true,,126767,460,2,2,https://blazedemo.com/assets/bootstrap.min.css,693,0,421
+1621992317462,1157,https://blazedemo.com/reserve.php-5,200,OK,Grupo de Hilos 1-9,text,true,,4067,462,2,2,https://blazedemo.com/assets/bootstrap-table.css,1155,0,673
+1621992328004,2163,https://blazedemo.com/confirmation.php,200,OK,Grupo de Hilos 1-8,text,true,,88557,3346,1,1,https://blazedemo.com/confirmation.php,1034,0,724
+1621992328004,1039,https://blazedemo.com/confirmation.php-0,200,OK,Grupo de Hilos 1-8,text,true,,4250,678,1,1,https://blazedemo.com/confirmation.php,1034,0,724
+1621992329045,292,https://blazedemo.com/confirmation.php-1,200,OK,Grupo de Hilos 1-8,text,true,,83603,478,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,148,0,65
+1621992329045,196,https://blazedemo.com/confirmation.php-2,304,Not Modified,Grupo de Hilos 1-8,,true,,176,546,1,1,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1621992329048,531,https://blazedemo.com/confirmation.php-3,304,Not Modified,Grupo de Hilos 1-8,,true,,176,548,1,1,https://blazedemo.com/assets/bootstrap-table.js,0,0,346
+1621992329046,1121,https://blazedemo.com/confirmation.php-4,304,Not Modified,Grupo de Hilos 1-8,,true,,177,548,1,1,https://blazedemo.com/assets/bootstrap.min.css,0,0,637
+1621992329045,536,https://blazedemo.com/confirmation.php-5,304,Not Modified,Grupo de Hilos 1-8,,true,,175,548,1,1,https://blazedemo.com/assets/bootstrap-table.css,0,0,365
+1621992250008,5243,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Grupo de Hilos 1-8,,true,,383368,9423,1,1,null,2405,74919,1161
